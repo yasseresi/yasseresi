@@ -38,13 +38,7 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasseresi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yasseresi&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="134" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasseresi&radius=16&theme=tokyo-night&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -64,6 +58,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yasseresi/yasseresi/output/snake.svg" alt="Snake animation" />
 
-###
