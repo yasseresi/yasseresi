@@ -28,7 +28,7 @@
 | ♻️ [**Ecollect**](https://github.com/yasseresi/portfolio/blob/main/projects/ecollect.md) | Marketplace for selling recyclable waste to collectors | Flutter · Supabase · Google Maps |
 | 💍 [**Zawaj**](https://github.com/yasseresi/zawaj-app) | Wedding-planning app + [Go API](https://github.com/yasseresi/zawaj-api) with RBAC | Flutter · Go · Gin · PostgreSQL |
 | 🩸 [**Tabaro3 Sétif**](https://github.com/yasseresi/tabaro3_setif) | Offline blood-donor management for a transfusion centre | Flutter Windows · SQLite |
-| 🩸 [**Tabara3**](https://github.com/yasseresi/portfolio/blob/main/projects/tabara3.md) | Mobile app connecting blood donors with patients | Flutter · BLoC |
+| 🩸 [**Tabara3**](https://github.com/yasseresi/tabare3) | Mobile app connecting blood donors with patients | Flutter · BLoC |
 | 🔐 [**go-s3-encryption**](https://github.com/yasseresi/go-s3-encryption) | AWS S3 server-side vs client-side encryption lab | Go · AWS KMS |
 
 ➡️ **[All projects, including private ones →](https://github.com/yasseresi/portfolio)**
